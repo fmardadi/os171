@@ -1,0 +1,10 @@
+w09-170521-18-LR-About: Ulasan 1
+w09-170521-18-LR-About: Ulasan 1
+w10-170521-20-LR-About: Ulasan 2
+w10-170521-20-LR-About: Ulasan 2
+w10-170522-14-LR-About: Ranking00
+w10-170522-15-LR-About: Ranking01
+w10-170522-15-LR-About: Ranking03
+w10-170523-12-LR-About: Ranking05
+w10-170523-12-LR-About: Ranking07
+w10-170523-13-LR-About: Ranking09
